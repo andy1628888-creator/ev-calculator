@@ -484,7 +484,7 @@ function getActionButtons(){
         📩 提供此檢測結果截圖，可協助您更快判斷與回覆。
       </div>
       <a class="line-btn" href="https://line.me/R/ti/p/~wujiau" target="_blank">💬 LINE快速詢問</a>
-      <a class="call-btn" href="tel:0927372875">📞 直接來電 0927-372-865</a>
+      <a class="call-btn" href="tel:0927372865">📞 直接來電 0927-372-865</a>
     </div>
   `;
 }
